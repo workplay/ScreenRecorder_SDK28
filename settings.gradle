@@ -1,0 +1,2 @@
+rootProject.name='ScreenRecorder_SDK28'
+include ':app'
